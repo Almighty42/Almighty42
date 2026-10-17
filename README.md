@@ -2,7 +2,7 @@
 
 
 I am a software connoisseur, who likes to explore / work on embedded, electronics and other software projects. <br/>
-Also, I write about embedded systems, electronics and my personal projects at **[opensourcewizard.com](https://opensourcewizard.com)** <img width="24" height="24" align="absmiddle" alt="Open source wizard logo" src="https://github.com/user-attachments/assets/d70a7aba-a3b6-4086-a984-4206e2c6d894" />
+Also, I write about embedded systems, general software topics and my personal projects at **[opensourcewizard.com](https://opensourcewizard.com)** <img width="24" height="24" align="absmiddle" alt="Open source wizard logo" src="https://github.com/user-attachments/assets/d70a7aba-a3b6-4086-a984-4206e2c6d894" />
 
 <hr>
 
